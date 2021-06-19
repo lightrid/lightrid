@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi! 👋 My name is Mykhailo Kviatkovskyi
+I'm 23 years old iOS developer from Lviv, Ukraine.
 
-<!--
-**lightrid/lightrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional education
+- 🧭 Finished Junior iOS development course in [@postindustria_.school](https://school.postindustria.com/)
+- 💻 Check my pet-projects in repository👇
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 iOS, Swift, C#, SQL
+- ⚙️ OOP/OOD
+- 👁️ MVC
+- 🗂 UIKit, Auto Layout, CocoaPods, GSD, CoreLocation, Push Notifications
+- ☁️ URLSession, Alamofire, Firebase, Rest API, JSON
+- 💽 CoreData, Realm, MySQL, Microsoft SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇬🇧 English - B1 (Intermediate)
+
+## Contact
+- [@lightrid](https://www.linkedin.com/in/lightrid/) on Linkedin
+- [@lightrid](https://t.me/lightrid) on Telegram
