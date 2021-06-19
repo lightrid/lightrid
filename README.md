@@ -12,7 +12,6 @@ I'm 23 years old iOS developer from Lviv, Ukraine.
 - 🗂 UIKit, Auto Layout, CocoaPods, GSD, CoreLocation, Push Notifications
 - ☁️ URLSession, Alamofire, Firebase, Rest API, JSON
 - 💽 CoreData, Realm, MySQL, Microsoft SQL Server
-
 - 🇬🇧 English - B1 (Intermediate)
 
 ## Contact
