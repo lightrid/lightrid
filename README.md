@@ -1,6 +1,5 @@
 ### Hi! 👋 My name is Mykhailo Kviatkovskyi
 I'm 23 years old iOS developer from Lviv, Ukraine.\
-Now I’m looking for a Trainee or Junior position in good team 👥
 
 ## Professional education
 - 🧭 Finished Junior iOS development course in [@postindustria_.school](https://school.postindustria.com/)
